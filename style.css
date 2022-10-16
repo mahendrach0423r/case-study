@@ -1,0 +1,74 @@
+.h1
+{
+    width: 70%;
+    border-color: black;
+    border-radius: 10px;
+}
+
+.bg
+{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#img1{
+    width:50px;
+    height:50px;
+}
+
+#v
+{
+    color: red;
+}
+
+#btn
+{
+    width: 100px;
+    height: 40px;
+}
+
+#main_div
+{
+    border-radius: 10px;
+    border-color: grey;
+    width: 1300px;
+    margin: 30px;
+}
+
+#google
+{
+    border-radius: 5px;
+    background-color: aliceblue;
+    width: 75%;
+}
+
+#mobilenet
+{
+    border-radius: 5px;
+    background-color: aliceblue;
+    width: 75%;
+}
+#bottle
+{
+    width: 350px;
+    height: 450px;
+}
+
+.product
+{
+    margin: 30px;
+    border-radius: 30px;
+    
+}
+
+image
+{
+    width: 350px;
+    height: 450px;
+}
+
+#img2
+{
+    width: 350px;
+    height:450px;
+}
